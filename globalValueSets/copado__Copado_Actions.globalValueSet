@@ -51,6 +51,11 @@
         <label>PackageDistribution</label>
     </customValue>
     <customValue>
+        <fullName>Rollback</fullName>
+        <default>false</default>
+        <label>Rollback</label>
+    </customValue>
+    <customValue>
         <fullName>PackageCreation</fullName>
         <default>false</default>
         <isActive>false</isActive>
